@@ -1,0 +1,23 @@
+{
+  "name": "points_2",
+  "version": "1.0.0",
+  "description": "Задание на дополнительные баллы",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1gbon/points_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1gbon/points_2/issues"
+  },
+  "homepage": "https://github.com/B1gbon/points_2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}
